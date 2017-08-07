@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using WpfApplication2.Command;
-using WpfApplication2.Model;
+using MVVMDemo.Command;
+using MVVMDemo.Model;
 
-namespace WpfApplication2.ViewModel
+namespace MVVMDemo.ViewModel
 {
     public class SongViewModel : INotifyPropertyChanged
     {
